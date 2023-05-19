@@ -1,0 +1,22 @@
+﻿
+````HELP````
+````````````
+Type `create FileName.extension` and press ENTER to create a single file.
+Type `createFd FolderName` and press ENTER to create a new folder.
+Type `delete fileName.extension` and press ENTER to delete a single file.
+Type `deleteFd folderName` and press ENTER to delete the whole folder.
+Type `move fileName.extension to folderName` and press ENTER to move a single file to a folder.
+Type `moveFd folderName to folderName` and press ENTER to move the whole folder to another.
+Type `copy fileName.extension to folderName` and press ENTER to copy a file to a folder. (If the same file already exists, it will overwrite)
+Type `read fileName.extension` to read the contents of a file.
+Type `open fileName.extension` to open and edit.
+Type `go folderName` and press ENTER to set as the current folder.
+Type `search name` and press ENTER to search files.
+Type `extract archive.extension to folderName` and press ENTER to extract the archives.
+Type `archive folderName` and press ENTER to archive a folder.
+Type `exit` and press ENTER to exit the program.
+Type `clear` and press ENTER to clear the screen.
+
+The TEXT at the left of the # shows your curent directory. Whichever you make the files and folder, it will only relate to your current folder.
+
+`````````````
